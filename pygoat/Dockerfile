@@ -1,4 +1,4 @@
-FROM python:3.7.5-buster
+FROM python:3.14.0rc2-slim-trixie
 
 # set up the psycopg2
 # set up the psycopg2
